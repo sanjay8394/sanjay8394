@@ -15,7 +15,11 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend Architecture
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `Tailwind CSS`
+ HTML5
+ CSS 
+ JavaScript (ES6+)
+ React.js
+ Tailwind CSS
 
 ### 🔧 Tools & Ecosystem
 `Git` • `GitHub` • `VS Code` • `Figma`
