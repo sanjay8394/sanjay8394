@@ -2,11 +2,15 @@
 
 ### Frontend Developer | Building Modern & Interactive Web Experiences
 
-I am a passionate **Frontend Developer** dedicated to creating **responsive, user-friendly, and visually engaging web applications**. I specialize in translating complex ideas into elegant digital experiences through clean layouts, interactive interfaces, and efficient, semantic code. 
+## 👨‍💻 About Me
 
-Driven by continuous learning, I am constantly exploring modern frontend ecosystems to build scalable and high-performance web solutions.
+* Deeply committed to crafting clean, responsive, and pixel-perfect layouts.
+* Passionate about bringing static pages to life with smooth, purposeful animations and interactions.
+* Actively expanding my technical repertoire and staying up-to-date with evolving web standards.
+* Dedicated to writing clean, maintainable, and highly efficient code.
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -24,15 +28,6 @@ Driven by continuous learning, I am constantly exploring modern frontend ecosyst
 * **Overview:** A modern, fully responsive web application tailored for automotive sales and rentals. 
 * **Key Features:** Intuitive interfaces, interactive search/filter functionalities, and sleek component design.
 * **Tech Stack:** React, Tailwind CSS
----
-
-## 👨‍💻 About Me
-
-* Deeply committed to crafting clean, responsive, and pixel-perfect layouts.
-* Passionate about bringing static pages to life with smooth, purposeful animations and interactions.
-* Actively expanding my technical repertoire and staying up-to-date with evolving web standards.
-* Dedicated to writing clean, maintainable, and highly efficient code.
-
 ---
 
 ## ⚡ Fun Facts
