@@ -1,68 +1,67 @@
-# Hi there 👋, I'm Sanjay
+# Hi there, I'm Sanjay Vangapati 👋
 
-## 🚀 About Me
-Passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I enjoy creating clean UI, interactive experiences, and transforming ideas into real-world digital solutions using modern frontend technologies.
+### Frontend Developer | Building Modern & Interactive Web Experiences
 
-- 💻 Frontend Developer
-- 🌱 Currently learning and improving my web development skills
-- 🎯 Focused on building responsive and modern websites
-- 🚀 Passionate about UI/UX and interactive web experiences
+I am a passionate **Frontend Developer** dedicated to creating **responsive, user-friendly, and visually engaging web applications**. I specialize in translating complex ideas into elegant digital experiences through clean layouts, interactive interfaces, and efficient, semantic code. 
+
+Driven by continuous learning, I am constantly exploring modern frontend ecosystems to build scalable and high-performance web solutions.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+### 🚀 Frontend Architecture
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `Tailwind CSS`
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Figma
+### 🔧 Tools & Ecosystem
+`Git` • `GitHub` • `VS Code` • `Figma`
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚗 Car Sales & Rental Website
-Modern responsive website for car sales and rentals with clean UI and interactive design.
+### 🚗 Car Sales & Rental Platform
+* **Overview:** A modern, fully responsive web application tailored for automotive sales and rentals. 
+* **Key Features:** Intuitive interfaces, interactive search/filter functionalities, and sleek component design.
+* **Tech Stack:** React, Tailwind CSS
+---
 
-### 👟 Shoe E-commerce Website
-Responsive online shopping website with modern product display and smooth user experience.
+## 👨‍💻 About Me
 
-### 🌐 Portfolio Website
-Personal portfolio website showcasing projects, skills, and web development work.
+* Deeply committed to crafting clean, responsive, and pixel-perfect layouts.
+* Passionate about bringing static pages to life with smooth, purposeful animations and interactions.
+* Actively expanding my technical repertoire and staying up-to-date with evolving web standards.
+* Dedicated to writing clean, maintainable, and highly efficient code.
 
 ---
 
 ## ⚡ Fun Facts
 
-- 💡 Passionate about turning ideas into interactive web experiences
-- 🚀 Constantly exploring modern frontend technologies
-- 🔥 Dedicated to learning, building, and improving every day
+*  Love the challenge of turning a blank canvas into a fully functional web experience.
+*  Appreciate clean aesthetics, whether it's in web components or modern automotive design.
+*  Strongly believe that the best way to predict the future of tech is to build it.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=visual&hide_border=true" alt="Sanjay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=visual&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn link
-- Portfolio: Add your portfolio link
+Let's collaborate on open-source projects or talk about frontend architecture!
+
+* **GitHub:** [github.com/YOUR_USERNAME](https://github.com/sanjay8394)
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
-### ✨ Quote
-*"Building digital experiences, one line of code at a time."*
+### ✨ Core Philosophy
+
+> *Building digital experiences through creativity, clean code, and continuous learning.*
