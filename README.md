@@ -60,8 +60,8 @@
 
 Let's collaborate on open-source projects or talk about frontend architecture!
 
-* **GitHub:** [github.com/YOUR_USERNAME](https://github.com/sanjay8394)
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+* **GitHub:** [github.com/sanjay8394](https://github.com/sanjay8394)
+* **LinkedIn:** [linkedin.com/in/sanjay-vangapati-49a623254](www.linkedin.com/in/sanjay-vangapati-49a623254)
 * **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
